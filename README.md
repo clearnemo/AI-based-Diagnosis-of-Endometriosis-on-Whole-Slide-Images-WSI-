@@ -28,7 +28,7 @@
 
 * **数据示例**：[Endometriosis of uterus - Female, 60 - Tissue image [5280730021719611] (2022). [Data set]. Gdańsk University of Technology.](https://doi.org/10.34808/k0qe-0h08)
 
-> **说明**：受限于开放数据协议以及 WSI 文件巨大的体积，本项目不直接开源 WSI 原始切片文件，而是提供了经过预处理和特征提取后的 `.h5` 特征文件，以便于研究者直接用于下游的模型训练与复现。
+> **说明**：受限于开放数据协议以及 WSI 文件巨大的体积，本项目不开源数据集。
 
 ---
 
