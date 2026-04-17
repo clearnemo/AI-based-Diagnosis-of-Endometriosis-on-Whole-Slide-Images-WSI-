@@ -57,7 +57,6 @@
 ## 📂 仓库目录结构
 
 ```text
-├── 📁 data_features/     # 预处理后的图像特征数据 (含 .h5 文件及对应的坐标参数)
 ├── 📁 notebooks/         # 核心代码与运行日志 (Jupyter Notebook 格式)
 │   ├── 01_wsi_preprocessing.ipynb  # WSI 边缘切割与 Patch 分块参数及代码
 │   ├── 02_train_ABMIL.ipynb        # ABMIL 模型训练代码与输出日志
