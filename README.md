@@ -1,8 +1,9 @@
 # 基于多示例学习的子宫内膜异位症 WSI 自动诊断系统
 
-[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?&logo=Jupyter&logoColor=white)](https://jupyter.org/)
-[![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 > **摘要**：本项目为本人的本科毕业论文配套代码仓库。针对子宫内膜异位症（Endometriosis）病理全视野数字化切片（WSI），利用深度学习技术实现了自动化的特征提取与多示例学习（MIL）分类诊断。
 
